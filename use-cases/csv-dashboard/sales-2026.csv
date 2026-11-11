@@ -1,0 +1,1481 @@
+order_id,date,region,product,quantity,unit_price
+50044,2026-01-01,South,Webcam HD,1,45
+50127,2026-01-01,West,Keyboard,1,49
+50003,2026-01-02,South,"Monitor 27""",1,189
+50009,2026-01-02,South,"Monitor 27""",1,189
+50132,2026-01-02,South,Keyboard,1,49
+50002,2026-01-03,North,"Monitor 27""",1,189
+50005,2026-01-03,West,"Monitor 27""",1,189
+50021,2026-01-03,North,"Monitor 27""",1,189
+50024,2026-01-03,East,USB-C dock,1,129
+50054,2026-01-03,South,Webcam HD,2,45
+50059,2026-01-03,South,Webcam HD,1,45
+50080,2026-01-03,North,Wireless mouse,3,19
+50129,2026-01-03,North,Keyboard,4,49
+50136,2026-01-03,East,Keyboard,1,49
+50138,2026-01-03,East,Keyboard,3,49
+50140,2026-01-03,South,Keyboard,1,49
+50033,2026-01-04,West,Webcam HD,1,45
+50057,2026-01-04,West,Webcam HD,4,45
+50106,2026-01-04,North,Headset,1,59
+50131,2026-01-04,North,Keyboard,1,49
+50001,2026-01-05,West,"Monitor 27""",2,189
+50010,2026-01-05,North,"Monitor 27""",1,189
+50041,2026-01-05,North,Webcam HD,1,45
+50055,2026-01-05,East,Webcam HD,4,45
+50088,2026-01-05,West,Wireless mouse,2,19
+50090,2026-01-05,North,Wireless mouse,1,19
+50114,2026-01-05,West,Headset,1,59
+50118,2026-01-05,East,Keyboard,1,49
+50133,2026-01-05,West,Keyboard,2,49
+50061,2026-01-06,North,Wireless mouse,1,19
+50082,2026-01-06,West,Wireless mouse,2,19
+50086,2026-01-06,South,Wireless mouse,1,19
+50050,2026-01-07,West,Webcam HD,1,45
+50073,2026-01-07,East,Wireless mouse,1,19
+50077,2026-01-07,West,Wireless mouse,2,19
+50094,2026-01-07,North,Wireless mouse,1,19
+50124,2026-01-07,East,Keyboard,1,49
+50017,2026-01-08,South,"Monitor 27""",2,189
+50018,2026-01-08,North,"Monitor 27""",1,189
+50035,2026-01-08,West,Webcam HD,1,45
+50042,2026-01-08,South,Webcam HD,1,45
+50070,2026-01-08,South,Wireless mouse,1,19
+50076,2026-01-08,West,Wireless mouse,1,19
+50112,2026-01-08,East,Headset,3,59
+50116,2026-01-08,West,Headset,1,59
+50120,2026-01-08,North,Keyboard,1,49
+50060,2026-01-09,West,Wireless mouse,2,19
+50065,2026-01-09,East,Wireless mouse,3,19
+50107,2026-01-09,North,Headset,2,59
+50064,2026-01-10,North,Wireless mouse,2,19
+50095,2026-01-10,South,Wireless mouse,2,19
+50022,2026-01-11,South,USB-C dock,3,129
+50051,2026-01-11,North,Webcam HD,1,45
+50083,2026-01-11,North,Wireless mouse,2,19
+50096,2026-01-11,East,Wireless mouse,1,19
+50105,2026-01-11,West,Headset,2,59
+50142,2026-01-11,West,Keyboard,3,49
+50025,2026-01-12,West,USB-C dock,1,129
+50040,2026-01-12,West,Webcam HD,4,45
+50045,2026-01-12,East,Webcam HD,4,45
+50066,2026-01-12,South,Wireless mouse,1,19
+50071,2026-01-12,North,Wireless mouse,4,19
+50075,2026-01-12,North,Wireless mouse,1,19
+50089,2026-01-12,South,Wireless mouse,1,19
+50008,2026-01-13,North,"Monitor 27""",4,189
+50048,2026-01-13,North,Webcam HD,1,45
+50049,2026-01-13,North,Webcam HD,1,45
+50004,2026-01-14,West,"Monitor 27""",1,189
+50023,2026-01-14,North,USB-C dock,4,129
+50123,2026-01-14,West,Keyboard,1,49
+50016,2026-01-15,West,"Monitor 27""",1,189
+50026,2026-01-15,North,USB-C dock,2,129
+50032,2026-01-15,East,Webcam HD,1,45
+50037,2026-01-15,West,Webcam HD,1,45
+50058,2026-01-15,West,Webcam HD,1,45
+50111,2026-01-15,West,Headset,1,59
+50115,2026-01-15,East,Headset,1,59
+50104,2026-01-16,North,Headset,1,59
+50121,2026-01-16,South,Keyboard,4,49
+50019,2026-01-17,West,"Monitor 27""",3,189
+50101,2026-01-17,North,Headset,3,59
+50108,2026-01-17,West,Headset,1,59
+50011,2026-01-18,South,"Monitor 27""",1,189
+50013,2026-01-18,North,"Monitor 27""",1,189
+50015,2026-01-18,West,"Monitor 27""",2,189
+50063,2026-01-18,North,Wireless mouse,2,19
+50126,2026-01-18,West,Keyboard,1,49
+50135,2026-01-18,West,Keyboard,2,49
+50006,2026-01-19,North,"Monitor 27""",3,189
+50012,2026-01-19,South,"Monitor 27""",1,189
+50052,2026-01-19,South,Webcam HD,1,45
+50087,2026-01-19,West,Wireless mouse,2,19
+50014,2026-01-20,South,"Monitor 27""",1,189
+50056,2026-01-20,East,Webcam HD,1,45
+50068,2026-01-20,South,Wireless mouse,2,19
+50110,2026-01-20,South,Headset,2,59
+50128,2026-01-20,East,Keyboard,1,49
+50007,2026-01-21,North,"Monitor 27""",1,189
+50079,2026-01-21,East,Wireless mouse,2,19
+50139,2026-01-21,North,Keyboard,2,49
+50028,2026-01-22,North,USB-C dock,1,129
+50030,2026-01-22,West,USB-C dock,1,129
+50031,2026-01-22,East,Webcam HD,1,45
+50134,2026-01-22,East,Keyboard,1,49
+50029,2026-01-23,East,USB-C dock,2,129
+50046,2026-01-23,North,Webcam HD,1,45
+50137,2026-01-23,South,Keyboard,1,49
+50020,2026-01-24,West,"Monitor 27""",1,189
+50084,2026-01-24,West,Wireless mouse,1,19
+50085,2026-01-24,North,Wireless mouse,2,19
+50091,2026-01-24,North,Wireless mouse,1,19
+50125,2026-01-24,East,Keyboard,1,49
+50034,2026-01-25,East,Webcam HD,1,45
+50067,2026-01-25,East,Wireless mouse,2,19
+50102,2026-01-25,South,Headset,2,59
+50103,2026-01-25,South,Headset,1,59
+50109,2026-01-25,North,Headset,1,59
+50072,2026-01-26,East,Wireless mouse,1,19
+50081,2026-01-26,South,Wireless mouse,1,19
+50117,2026-01-26,North,Keyboard,3,49
+50130,2026-01-26,South,Keyboard,4,49
+50043,2026-01-27,South,Webcam HD,1,45
+50069,2026-01-27,West,Wireless mouse,2,19
+50097,2026-01-27,South,Wireless mouse,1,19
+50099,2026-01-27,West,Headset,2,59
+50122,2026-01-27,South,Keyboard,1,49
+50036,2026-01-28,West,Webcam HD,1,45
+50039,2026-01-28,East,Webcam HD,2,45
+50047,2026-01-28,West,Webcam HD,1,45
+50093,2026-01-28,South,Wireless mouse,2,19
+50141,2026-01-28,North,Keyboard,1,49
+50038,2026-01-29,South,Webcam HD,2,45
+50078,2026-01-29,North,Wireless mouse,1,19
+50098,2026-01-29,West,Headset,2,59
+50100,2026-01-29,South,Headset,1,59
+50113,2026-01-29,South,Headset,2,59
+50119,2026-01-29,South,Keyboard,4,49
+50074,2026-01-30,East,Wireless mouse,4,19
+50092,2026-01-30,South,Wireless mouse,1,19
+50027,2026-01-31,East,USB-C dock,1,129
+50053,2026-01-31,East,Webcam HD,2,45
+50062,2026-01-31,East,Wireless mouse,1,19
+50159,2026-02-01,North,"Monitor 27""",2,189
+50168,2026-02-01,East,USB-C dock,1,129
+50171,2026-02-01,North,USB-C dock,1,129
+50187,2026-02-01,West,Webcam HD,2,45
+50212,2026-02-01,West,Wireless mouse,2,19
+50258,2026-02-01,South,Keyboard,1,49
+50282,2026-02-01,South,Keyboard,1,49
+50150,2026-02-02,North,"Monitor 27""",1,189
+50173,2026-02-02,West,USB-C dock,1,129
+50183,2026-02-02,South,Webcam HD,2,45
+50229,2026-02-02,West,Wireless mouse,1,19
+50259,2026-02-02,East,Keyboard,4,49
+50161,2026-02-03,West,"Monitor 27""",3,189
+50172,2026-02-03,South,USB-C dock,1,129
+50189,2026-02-03,West,Webcam HD,1,45
+50190,2026-02-03,East,Webcam HD,1,45
+50204,2026-02-03,West,Wireless mouse,1,19
+50219,2026-02-03,West,Wireless mouse,1,19
+50184,2026-02-04,West,Webcam HD,2,45
+50200,2026-02-04,South,Webcam HD,2,45
+50215,2026-02-04,East,Wireless mouse,1,19
+50217,2026-02-04,South,Wireless mouse,2,19
+50143,2026-02-05,North,"Monitor 27""",1,189
+50196,2026-02-05,East,Webcam HD,1,45
+50198,2026-02-05,North,Webcam HD,1,45
+50208,2026-02-05,East,Wireless mouse,4,19
+50209,2026-02-05,East,Wireless mouse,3,19
+50224,2026-02-05,South,Wireless mouse,4,19
+50256,2026-02-05,North,Headset,3,59
+50281,2026-02-05,West,Keyboard,1,49
+50241,2026-02-06,East,Headset,1,59
+50147,2026-02-07,East,"Monitor 27""",1,189
+50170,2026-02-07,South,USB-C dock,1,129
+50207,2026-02-07,North,Wireless mouse,1,19
+50268,2026-02-07,West,Keyboard,3,49
+50275,2026-02-07,East,Keyboard,2,49
+50276,2026-02-07,South,Keyboard,1,49
+50144,2026-02-08,North,"Monitor 27""",4,189
+50152,2026-02-08,West,"Monitor 27""",1,189
+50174,2026-02-08,North,Webcam HD,1,45
+50235,2026-02-08,East,Wireless mouse,1,19
+50249,2026-02-08,West,Headset,1,59
+50255,2026-02-08,North,Headset,1,59
+50263,2026-02-08,North,Keyboard,1,49
+50266,2026-02-08,South,Keyboard,1,49
+50270,2026-02-08,West,Keyboard,3,49
+50271,2026-02-08,West,Keyboard,1,49
+50279,2026-02-08,West,Keyboard,1,49
+50145,2026-02-09,North,"Monitor 27""",1,189
+50160,2026-02-09,West,"Monitor 27""",1,189
+50164,2026-02-09,West,USB-C dock,1,129
+50222,2026-02-09,North,Wireless mouse,1,19
+50234,2026-02-09,East,Wireless mouse,1,19
+50277,2026-02-09,East,Keyboard,1,49
+50146,2026-02-10,East,"Monitor 27""",1,189
+50155,2026-02-10,South,"Monitor 27""",4,189
+50167,2026-02-10,South,USB-C dock,1,129
+50231,2026-02-10,West,Wireless mouse,1,19
+50262,2026-02-10,South,Keyboard,1,49
+50264,2026-02-10,West,Keyboard,1,49
+50274,2026-02-10,North,Keyboard,1,49
+50156,2026-02-11,South,"Monitor 27""",2,189
+50239,2026-02-11,West,Headset,1,59
+50242,2026-02-11,South,Headset,1,59
+50246,2026-02-11,North,Headset,1,59
+50265,2026-02-11,South,Keyboard,1,49
+50272,2026-02-11,West,Keyboard,1,49
+50158,2026-02-12,North,"Monitor 27""",2,189
+50165,2026-02-12,East,USB-C dock,4,129
+50226,2026-02-12,West,Wireless mouse,3,19
+50193,2026-02-13,North,Webcam HD,1,45
+50213,2026-02-13,East,Wireless mouse,2,19
+50273,2026-02-13,South,Keyboard,1,49
+50214,2026-02-14,East,Wireless mouse,1,19
+50221,2026-02-14,East,Wireless mouse,3,19
+50225,2026-02-14,East,Wireless mouse,1,19
+50233,2026-02-14,East,Wireless mouse,1,19
+50252,2026-02-14,West,Headset,4,59
+50261,2026-02-14,North,Keyboard,1,49
+50267,2026-02-14,East,Keyboard,1,49
+50202,2026-02-15,North,Wireless mouse,4,19
+50205,2026-02-15,North,Wireless mouse,2,19
+50206,2026-02-15,East,Wireless mouse,1,19
+50250,2026-02-15,West,Headset,4,59
+50169,2026-02-16,East,USB-C dock,1,129
+50199,2026-02-16,East,Webcam HD,4,45
+50211,2026-02-16,West,Wireless mouse,1,19
+50253,2026-02-16,North,Headset,1,59
+50151,2026-02-17,South,"Monitor 27""",1,189
+50175,2026-02-17,South,Webcam HD,2,45
+50201,2026-02-17,East,Wireless mouse,1,19
+50238,2026-02-17,West,Wireless mouse,1,19
+50248,2026-02-17,South,Headset,1,59
+50154,2026-02-18,West,"Monitor 27""",4,189
+50166,2026-02-18,East,USB-C dock,1,129
+50185,2026-02-18,North,Webcam HD,2,45
+50203,2026-02-18,South,Wireless mouse,1,19
+50228,2026-02-18,South,Wireless mouse,2,19
+50232,2026-02-18,South,Wireless mouse,1,19
+50240,2026-02-18,South,Headset,1,59
+50182,2026-02-19,South,Webcam HD,1,45
+50247,2026-02-19,East,Headset,1,59
+50195,2026-02-20,South,Webcam HD,1,45
+50278,2026-02-20,West,Keyboard,2,49
+50186,2026-02-21,South,Webcam HD,1,45
+50192,2026-02-21,West,Webcam HD,1,45
+50237,2026-02-21,South,Wireless mouse,1,19
+50260,2026-02-21,East,Keyboard,1,49
+50269,2026-02-21,West,Keyboard,1,49
+50148,2026-02-22,South,"Monitor 27""",1,189
+50162,2026-02-22,East,"Monitor 27""",1,189
+50194,2026-02-22,East,Webcam HD,2,45
+50223,2026-02-22,East,Wireless mouse,2,19
+50236,2026-02-22,West,Wireless mouse,1,19
+50280,2026-02-22,North,Keyboard,3,49
+50157,2026-02-23,South,"Monitor 27""",1,189
+50163,2026-02-23,East,"Monitor 27""",1,189
+50176,2026-02-23,West,Webcam HD,2,45
+50210,2026-02-23,East,Wireless mouse,1,19
+50283,2026-02-23,North,Keyboard,1,49
+50177,2026-02-24,West,Webcam HD,1,45
+50178,2026-02-24,South,Webcam HD,1,45
+50188,2026-02-24,North,Webcam HD,2,45
+50197,2026-02-24,East,Webcam HD,2,45
+50218,2026-02-24,East,Wireless mouse,1,19
+50244,2026-02-24,West,Headset,1,59
+50245,2026-02-24,South,Headset,1,59
+50257,2026-02-24,West,Headset,1,59
+50181,2026-02-25,North,Webcam HD,2,45
+50191,2026-02-25,South,Webcam HD,1,45
+50216,2026-02-25,East,Wireless mouse,2,19
+50230,2026-02-25,South,Wireless mouse,2,19
+50149,2026-02-26,North,"Monitor 27""",4,189
+50180,2026-02-26,South,Webcam HD,3,45
+50227,2026-02-26,West,Wireless mouse,3,19
+50243,2026-02-26,South,Headset,3,59
+50153,2026-02-27,West,"Monitor 27""",2,189
+50179,2026-02-27,West,Webcam HD,2,45
+50254,2026-02-27,West,Headset,4,59
+50220,2026-02-28,North,Wireless mouse,1,19
+50251,2026-02-28,North,Headset,1,59
+50289,2026-03-01,North,"Monitor 27""",1,189
+50354,2026-03-01,East,Wireless mouse,2,19
+50356,2026-03-01,West,Wireless mouse,3,19
+50420,2026-03-01,East,Keyboard,1,49
+50299,2026-03-02,West,"Monitor 27""",1,189
+50352,2026-03-02,East,Wireless mouse,2,19
+50402,2026-03-02,South,Headset,1,59
+50285,2026-03-03,South,"Monitor 27""",1,189
+50317,2026-03-03,North,USB-C dock,1,129
+50320,2026-03-03,South,Webcam HD,1,45
+50347,2026-03-03,West,Wireless mouse,1,19
+50349,2026-03-03,South,Wireless mouse,1,19
+50386,2026-03-03,South,Wireless mouse,1,19
+50393,2026-03-03,North,Headset,1,59
+50291,2026-03-04,South,"Monitor 27""",1,189
+50319,2026-03-04,North,Webcam HD,1,45
+50332,2026-03-04,West,Webcam HD,4,45
+50333,2026-03-04,North,Webcam HD,1,45
+50365,2026-03-04,West,Wireless mouse,1,19
+50375,2026-03-04,South,Wireless mouse,1,19
+50322,2026-03-05,West,Webcam HD,1,45
+50389,2026-03-05,North,Headset,3,59
+50427,2026-03-05,East,Keyboard,1,49
+50286,2026-03-06,West,"Monitor 27""",1,189
+50328,2026-03-06,South,Webcam HD,1,45
+50359,2026-03-06,South,Wireless mouse,1,19
+50363,2026-03-06,South,Wireless mouse,1,19
+50364,2026-03-06,South,Wireless mouse,3,19
+50373,2026-03-06,South,Wireless mouse,1,19
+50403,2026-03-06,East,Headset,2,59
+50413,2026-03-06,North,Keyboard,1,49
+50337,2026-03-07,South,Webcam HD,3,45
+50342,2026-03-07,East,Webcam HD,1,45
+50423,2026-03-07,East,Keyboard,2,49
+50307,2026-03-08,North,USB-C dock,1,129
+50419,2026-03-08,North,Keyboard,1,49
+50326,2026-03-09,East,Webcam HD,1,45
+50327,2026-03-09,South,Webcam HD,1,45
+50339,2026-03-09,North,Webcam HD,1,45
+50350,2026-03-09,West,Wireless mouse,4,19
+50401,2026-03-09,South,Headset,1,59
+50428,2026-03-09,North,Keyboard,1,49
+50305,2026-03-10,North,"Monitor 27""",2,189
+50325,2026-03-10,East,Webcam HD,1,45
+50329,2026-03-10,South,Webcam HD,1,45
+50336,2026-03-10,South,Webcam HD,1,45
+50345,2026-03-10,North,Wireless mouse,1,19
+50380,2026-03-10,South,Wireless mouse,1,19
+50417,2026-03-10,West,Keyboard,1,49
+50288,2026-03-11,West,"Monitor 27""",1,189
+50302,2026-03-11,East,"Monitor 27""",1,189
+50314,2026-03-11,East,USB-C dock,1,129
+50378,2026-03-11,North,Wireless mouse,1,19
+50390,2026-03-11,North,Headset,1,59
+50290,2026-03-12,West,"Monitor 27""",4,189
+50296,2026-03-12,West,"Monitor 27""",1,189
+50338,2026-03-12,South,Webcam HD,1,45
+50341,2026-03-12,East,Webcam HD,1,45
+50387,2026-03-12,North,Wireless mouse,2,19
+50397,2026-03-12,East,Headset,1,59
+50407,2026-03-12,West,Headset,1,59
+50410,2026-03-12,East,Keyboard,1,49
+50411,2026-03-12,South,Keyboard,1,49
+50418,2026-03-12,North,Keyboard,1,49
+50309,2026-03-13,East,USB-C dock,3,129
+50316,2026-03-13,South,USB-C dock,1,129
+50330,2026-03-13,East,Webcam HD,4,45
+50348,2026-03-13,South,Wireless mouse,2,19
+50355,2026-03-13,West,Wireless mouse,1,19
+50358,2026-03-13,East,Wireless mouse,1,19
+50293,2026-03-14,North,"Monitor 27""",1,189
+50297,2026-03-14,South,"Monitor 27""",2,189
+50344,2026-03-14,East,Wireless mouse,1,19
+50357,2026-03-14,North,Wireless mouse,2,19
+50422,2026-03-14,East,Keyboard,1,49
+50379,2026-03-15,East,Wireless mouse,2,19
+50382,2026-03-15,South,Wireless mouse,1,19
+50384,2026-03-15,West,Wireless mouse,2,19
+50399,2026-03-15,South,Headset,1,59
+50426,2026-03-15,North,Keyboard,1,49
+50294,2026-03-16,South,"Monitor 27""",1,189
+50311,2026-03-16,South,USB-C dock,1,129
+50321,2026-03-16,West,Webcam HD,1,45
+50368,2026-03-16,East,Wireless mouse,1,19
+50424,2026-03-16,South,Keyboard,1,49
+50331,2026-03-17,South,Webcam HD,2,45
+50391,2026-03-17,West,Headset,2,59
+50406,2026-03-17,North,Headset,2,59
+50414,2026-03-17,East,Keyboard,1,49
+50421,2026-03-17,East,Keyboard,1,49
+50431,2026-03-17,West,Keyboard,1,49
+50318,2026-03-18,East,USB-C dock,1,129
+50360,2026-03-18,South,Wireless mouse,2,19
+50377,2026-03-18,North,Wireless mouse,2,19
+50409,2026-03-18,West,Keyboard,2,49
+50430,2026-03-19,West,Keyboard,2,49
+50340,2026-03-20,East,Webcam HD,1,45
+50362,2026-03-20,East,Wireless mouse,2,19
+50372,2026-03-20,South,Wireless mouse,2,19
+50383,2026-03-20,West,Wireless mouse,1,19
+50287,2026-03-22,West,"Monitor 27""",2,189
+50351,2026-03-22,East,Wireless mouse,1,19
+50381,2026-03-22,East,Wireless mouse,1,19
+50388,2026-03-22,North,Headset,1,59
+50284,2026-03-23,East,"Monitor 27""",2,189
+50304,2026-03-23,East,"Monitor 27""",3,189
+50370,2026-03-23,South,Wireless mouse,2,19
+50301,2026-03-24,North,"Monitor 27""",3,189
+50343,2026-03-24,South,Webcam HD,2,45
+50376,2026-03-24,South,Wireless mouse,1,19
+50396,2026-03-24,South,Headset,1,59
+50416,2026-03-24,North,Keyboard,1,49
+50292,2026-03-25,East,"Monitor 27""",2,189
+50298,2026-03-25,West,"Monitor 27""",1,189
+50313,2026-03-25,South,USB-C dock,2,129
+50412,2026-03-25,North,Keyboard,1,49
+50306,2026-03-26,North,USB-C dock,1,129
+50315,2026-03-26,North,USB-C dock,1,129
+50346,2026-03-26,West,Wireless mouse,1,19
+50366,2026-03-26,South,Wireless mouse,1,19
+50385,2026-03-26,West,Wireless mouse,1,19
+50392,2026-03-26,South,Headset,1,59
+50395,2026-03-26,South,Headset,2,59
+50405,2026-03-26,East,Headset,1,59
+50310,2026-03-27,West,USB-C dock,1,129
+50334,2026-03-27,South,Webcam HD,2,45
+50367,2026-03-27,North,Wireless mouse,4,19
+50429,2026-03-27,East,Keyboard,1,49
+50324,2026-03-28,North,Webcam HD,2,45
+50371,2026-03-28,South,Wireless mouse,2,19
+50323,2026-03-29,South,Webcam HD,2,45
+50353,2026-03-29,East,Wireless mouse,1,19
+50394,2026-03-29,West,Headset,1,59
+50398,2026-03-29,East,Headset,3,59
+50404,2026-03-29,West,Headset,1,59
+50408,2026-03-29,North,Keyboard,1,49
+50295,2026-03-30,West,"Monitor 27""",1,189
+50300,2026-03-30,North,"Monitor 27""",1,189
+50312,2026-03-30,East,USB-C dock,2,129
+50335,2026-03-30,East,Webcam HD,1,45
+50361,2026-03-30,West,Wireless mouse,1,19
+50369,2026-03-30,West,Wireless mouse,1,19
+50425,2026-03-30,South,Keyboard,2,49
+50303,2026-03-31,North,"Monitor 27""",1,189
+50308,2026-03-31,West,USB-C dock,4,129
+50374,2026-03-31,South,Wireless mouse,1,19
+50400,2026-03-31,West,Headset,1,59
+50415,2026-03-31,East,Keyboard,2,49
+50440,2026-04-01,West,"Monitor 27""",2,189
+50478,2026-04-01,West,Webcam HD,1,45
+50566,2026-04-01,North,Keyboard,1,49
+50432,2026-04-02,North,"Monitor 27""",1,189
+50434,2026-04-02,North,"Monitor 27""",1,189
+50444,2026-04-02,North,"Monitor 27""",1,189
+50475,2026-04-02,East,Webcam HD,3,45
+50480,2026-04-02,South,Webcam HD,2,45
+50543,2026-04-02,North,Headset,1,59
+50562,2026-04-03,East,Keyboard,1,49
+50567,2026-04-03,East,Keyboard,1,49
+50443,2026-04-04,East,"Monitor 27""",1,189
+50460,2026-04-04,North,USB-C dock,2,129
+50479,2026-04-04,East,Webcam HD,1,45
+50515,2026-04-04,East,Wireless mouse,1,19
+50526,2026-04-04,West,Wireless mouse,1,19
+50535,2026-04-04,West,Wireless mouse,1,19
+50546,2026-04-04,South,Headset,1,59
+50568,2026-04-04,South,Keyboard,3,49
+50576,2026-04-04,North,Keyboard,1,49
+50463,2026-04-05,North,USB-C dock,2,129
+50471,2026-04-05,North,Webcam HD,2,45
+50499,2026-04-05,North,Wireless mouse,1,19
+50503,2026-04-05,East,Wireless mouse,1,19
+50512,2026-04-05,South,Wireless mouse,2,19
+50519,2026-04-05,East,Wireless mouse,2,19
+50549,2026-04-05,North,Headset,2,59
+50552,2026-04-05,East,Headset,2,59
+50565,2026-04-05,East,Keyboard,2,49
+50570,2026-04-05,South,Keyboard,3,49
+50437,2026-04-06,East,"Monitor 27""",1,189
+50459,2026-04-06,South,USB-C dock,1,129
+50461,2026-04-06,East,USB-C dock,4,129
+50489,2026-04-06,East,Webcam HD,2,45
+50569,2026-04-06,West,Keyboard,1,49
+50436,2026-04-07,West,"Monitor 27""",2,189
+50451,2026-04-07,South,"Monitor 27""",2,189
+50468,2026-04-07,South,USB-C dock,1,129
+50509,2026-04-07,East,Wireless mouse,4,19
+50514,2026-04-07,North,Wireless mouse,2,19
+50490,2026-04-08,West,Wireless mouse,1,19
+50507,2026-04-08,East,Wireless mouse,2,19
+50556,2026-04-08,East,Headset,2,59
+50577,2026-04-08,South,Keyboard,1,49
+50580,2026-04-08,West,Keyboard,1,49
+50446,2026-04-09,West,"Monitor 27""",2,189
+50505,2026-04-09,East,Wireless mouse,2,19
+50542,2026-04-09,East,Headset,1,59
+50457,2026-04-10,South,USB-C dock,1,129
+50482,2026-04-10,South,Webcam HD,1,45
+50496,2026-04-10,East,Wireless mouse,1,19
+50554,2026-04-10,South,Headset,2,59
+50563,2026-04-10,West,Keyboard,1,49
+50452,2026-04-11,South,"Monitor 27""",3,189
+50453,2026-04-11,South,"Monitor 27""",1,189
+50473,2026-04-11,West,Webcam HD,1,45
+50500,2026-04-11,South,Wireless mouse,3,19
+50525,2026-04-11,East,Wireless mouse,2,19
+50531,2026-04-11,North,Wireless mouse,1,19
+50582,2026-04-11,West,Keyboard,2,49
+50474,2026-04-12,East,Webcam HD,3,45
+50493,2026-04-12,North,Wireless mouse,1,19
+50508,2026-04-12,South,Wireless mouse,1,19
+50433,2026-04-13,South,"Monitor 27""",1,189
+50494,2026-04-13,North,Wireless mouse,1,19
+50516,2026-04-13,West,Wireless mouse,1,19
+50517,2026-04-13,West,Wireless mouse,2,19
+50520,2026-04-13,North,Wireless mouse,2,19
+50527,2026-04-13,South,Wireless mouse,1,19
+50547,2026-04-13,South,Headset,4,59
+50548,2026-04-13,West,Headset,1,59
+50528,2026-04-14,West,Wireless mouse,1,19
+50538,2026-04-14,West,Headset,1,59
+50501,2026-04-15,East,Wireless mouse,1,19
+50502,2026-04-15,East,Wireless mouse,1,19
+50485,2026-04-16,North,Webcam HD,1,45
+50532,2026-04-16,North,Wireless mouse,1,19
+50555,2026-04-16,East,Headset,2,59
+50561,2026-04-16,West,Keyboard,2,49
+50449,2026-04-17,North,"Monitor 27""",1,189
+50455,2026-04-17,North,"Monitor 27""",3,189
+50483,2026-04-17,South,Webcam HD,1,45
+50488,2026-04-17,East,Webcam HD,1,45
+50518,2026-04-17,East,Wireless mouse,1,19
+50536,2026-04-17,North,Headset,2,59
+50435,2026-04-18,South,"Monitor 27""",1,189
+50497,2026-04-18,South,Wireless mouse,1,19
+50533,2026-04-18,South,Wireless mouse,1,19
+50551,2026-04-18,South,Headset,2,59
+50578,2026-04-18,North,Keyboard,1,49
+50458,2026-04-19,North,USB-C dock,1,129
+50465,2026-04-19,East,USB-C dock,1,129
+50487,2026-04-19,East,Webcam HD,4,45
+50522,2026-04-19,West,Wireless mouse,2,19
+50477,2026-04-20,North,Webcam HD,2,45
+50529,2026-04-20,West,Wireless mouse,1,19
+50541,2026-04-20,East,Headset,2,59
+50581,2026-04-20,North,Keyboard,1,49
+50438,2026-04-21,North,"Monitor 27""",4,189
+50442,2026-04-21,West,"Monitor 27""",1,189
+50470,2026-04-21,East,Webcam HD,1,45
+50472,2026-04-21,South,Webcam HD,1,45
+50491,2026-04-21,North,Wireless mouse,1,19
+50495,2026-04-21,North,Wireless mouse,1,19
+50524,2026-04-21,North,Wireless mouse,1,19
+50550,2026-04-21,South,Headset,1,59
+50560,2026-04-21,East,Keyboard,1,49
+50511,2026-04-22,North,Wireless mouse,1,19
+50523,2026-04-22,South,Wireless mouse,2,19
+50530,2026-04-22,South,Wireless mouse,3,19
+50539,2026-04-22,South,Headset,1,59
+50545,2026-04-22,East,Headset,1,59
+50557,2026-04-22,East,Headset,4,59
+50558,2026-04-22,South,Headset,1,59
+50462,2026-04-23,North,USB-C dock,1,129
+50492,2026-04-23,North,Wireless mouse,2,19
+50572,2026-04-23,North,Keyboard,2,49
+50574,2026-04-23,South,Keyboard,1,49
+50439,2026-04-24,West,"Monitor 27""",2,189
+50441,2026-04-24,West,"Monitor 27""",1,189
+50445,2026-04-24,East,"Monitor 27""",2,189
+50456,2026-04-24,South,USB-C dock,1,129
+50464,2026-04-24,North,USB-C dock,1,129
+50510,2026-04-24,North,Wireless mouse,1,19
+50513,2026-04-24,East,Wireless mouse,1,19
+50575,2026-04-24,West,Keyboard,2,49
+50467,2026-04-25,West,USB-C dock,1,129
+50476,2026-04-25,West,Webcam HD,3,45
+50484,2026-04-25,North,Webcam HD,1,45
+50540,2026-04-25,North,Headset,2,59
+50486,2026-04-26,South,Webcam HD,4,45
+50534,2026-04-26,South,Wireless mouse,1,19
+50559,2026-04-26,East,Keyboard,1,49
+50571,2026-04-26,South,Keyboard,2,49
+50466,2026-04-27,North,USB-C dock,3,129
+50481,2026-04-27,North,Webcam HD,1,45
+50506,2026-04-27,South,Wireless mouse,2,19
+50537,2026-04-27,East,Headset,1,59
+50553,2026-04-27,West,Headset,1,59
+50564,2026-04-27,East,Keyboard,2,49
+50454,2026-04-28,West,"Monitor 27""",1,189
+50469,2026-04-28,North,Webcam HD,2,45
+50450,2026-04-29,South,"Monitor 27""",2,189
+50498,2026-04-29,South,Wireless mouse,3,19
+50504,2026-04-29,South,Wireless mouse,1,19
+50573,2026-04-29,East,Keyboard,1,49
+50579,2026-04-29,South,Keyboard,2,49
+50447,2026-04-30,East,"Monitor 27""",1,189
+50448,2026-04-30,South,"Monitor 27""",1,189
+50521,2026-04-30,West,Wireless mouse,2,19
+50544,2026-04-30,West,Headset,2,59
+50604,2026-05-01,North,"Monitor 27""",1,189
+50615,2026-05-01,West,USB-C dock,1,129
+50620,2026-05-01,West,USB-C dock,1,129
+50635,2026-05-01,North,Webcam HD,1,45
+50660,2026-05-01,West,Wireless mouse,1,19
+50714,2026-05-01,East,Keyboard,1,49
+50586,2026-05-02,East,"Monitor 27""",2,189
+50594,2026-05-02,East,"Monitor 27""",1,189
+50601,2026-05-02,West,"Monitor 27""",2,189
+50603,2026-05-02,West,"Monitor 27""",1,189
+50634,2026-05-02,North,Webcam HD,1,45
+50645,2026-05-02,East,Wireless mouse,3,19
+50658,2026-05-02,West,Wireless mouse,1,19
+50679,2026-05-02,East,Wireless mouse,1,19
+50681,2026-05-02,North,Wireless mouse,1,19
+50692,2026-05-02,East,Headset,2,59
+50711,2026-05-02,South,Headset,2,59
+50725,2026-05-02,East,Keyboard,1,49
+50631,2026-05-03,East,Webcam HD,2,45
+50656,2026-05-03,West,Wireless mouse,2,19
+50661,2026-05-03,East,Wireless mouse,2,19
+50587,2026-05-04,West,"Monitor 27""",1,189
+50611,2026-05-04,North,USB-C dock,1,129
+50622,2026-05-04,North,Webcam HD,2,45
+50627,2026-05-04,South,Webcam HD,1,45
+50641,2026-05-04,East,Webcam HD,4,45
+50671,2026-05-04,East,Wireless mouse,2,19
+50697,2026-05-04,West,Headset,1,59
+50654,2026-05-05,South,Wireless mouse,1,19
+50694,2026-05-05,East,Headset,2,59
+50705,2026-05-05,West,Headset,4,59
+50710,2026-05-05,East,Headset,1,59
+50732,2026-05-05,South,Keyboard,1,49
+50609,2026-05-06,North,USB-C dock,2,129
+50614,2026-05-06,West,USB-C dock,1,129
+50640,2026-05-06,South,Webcam HD,4,45
+50642,2026-05-06,West,Webcam HD,1,45
+50680,2026-05-06,West,Wireless mouse,1,19
+50703,2026-05-06,South,Headset,1,59
+50623,2026-05-07,South,Webcam HD,2,45
+50657,2026-05-07,South,Wireless mouse,1,19
+50659,2026-05-07,East,Wireless mouse,1,19
+50666,2026-05-07,North,Wireless mouse,1,19
+50675,2026-05-07,West,Wireless mouse,1,19
+50676,2026-05-07,East,Wireless mouse,3,19
+50731,2026-05-07,East,Keyboard,1,49
+50662,2026-05-08,West,Wireless mouse,1,19
+50689,2026-05-08,South,Headset,1,59
+50700,2026-05-08,South,Headset,3,59
+50628,2026-05-09,South,Webcam HD,1,45
+50652,2026-05-09,West,Wireless mouse,1,19
+50677,2026-05-09,West,Wireless mouse,1,19
+50690,2026-05-09,East,Headset,1,59
+50698,2026-05-09,West,Headset,1,59
+50716,2026-05-09,West,Keyboard,1,49
+50583,2026-05-10,West,"Monitor 27""",1,189
+50636,2026-05-10,South,Webcam HD,4,45
+50651,2026-05-10,North,Wireless mouse,1,19
+50696,2026-05-10,West,Headset,2,59
+50715,2026-05-10,East,Keyboard,2,49
+50724,2026-05-10,West,Keyboard,3,49
+50590,2026-05-11,North,"Monitor 27""",3,189
+50593,2026-05-11,West,"Monitor 27""",1,189
+50599,2026-05-11,East,"Monitor 27""",1,189
+50638,2026-05-11,East,Webcam HD,3,45
+50708,2026-05-11,East,Headset,2,59
+50585,2026-05-12,North,"Monitor 27""",1,189
+50591,2026-05-12,East,"Monitor 27""",1,189
+50597,2026-05-12,South,"Monitor 27""",2,189
+50630,2026-05-12,South,Webcam HD,2,45
+50688,2026-05-12,South,Headset,4,59
+50584,2026-05-14,North,"Monitor 27""",1,189
+50624,2026-05-14,North,Webcam HD,1,45
+50713,2026-05-14,West,Keyboard,1,49
+50722,2026-05-14,East,Keyboard,4,49
+50730,2026-05-14,North,Keyboard,3,49
+50678,2026-05-15,South,Wireless mouse,1,19
+50717,2026-05-15,West,Keyboard,1,49
+50728,2026-05-15,North,Keyboard,2,49
+50699,2026-05-16,West,Headset,1,59
+50709,2026-05-16,North,Headset,2,59
+50592,2026-05-17,South,"Monitor 27""",1,189
+50596,2026-05-17,East,"Monitor 27""",3,189
+50617,2026-05-17,North,USB-C dock,2,129
+50664,2026-05-17,East,Wireless mouse,1,19
+50669,2026-05-17,South,Wireless mouse,1,19
+50674,2026-05-17,North,Wireless mouse,1,19
+50718,2026-05-17,North,Keyboard,2,49
+50727,2026-05-17,East,Keyboard,1,49
+50613,2026-05-18,East,USB-C dock,3,129
+50691,2026-05-18,North,Headset,2,59
+50712,2026-05-18,South,Headset,1,59
+50616,2026-05-19,North,USB-C dock,1,129
+50644,2026-05-19,East,Wireless mouse,1,19
+50665,2026-05-19,South,Wireless mouse,1,19
+50668,2026-05-19,East,Wireless mouse,1,19
+50686,2026-05-19,South,Wireless mouse,2,19
+50605,2026-05-20,North,USB-C dock,2,129
+50647,2026-05-20,East,Wireless mouse,1,19
+50673,2026-05-20,North,Wireless mouse,1,19
+50704,2026-05-20,East,Headset,3,59
+50600,2026-05-21,North,"Monitor 27""",2,189
+50607,2026-05-21,North,USB-C dock,1,129
+50684,2026-05-21,West,Wireless mouse,3,19
+50707,2026-05-21,North,Headset,1,59
+50726,2026-05-21,North,Keyboard,1,49
+50608,2026-05-22,West,USB-C dock,2,129
+50625,2026-05-22,North,Webcam HD,4,45
+50649,2026-05-22,West,Wireless mouse,2,19
+50589,2026-05-23,West,"Monitor 27""",2,189
+50632,2026-05-23,West,Webcam HD,1,45
+50667,2026-05-23,East,Wireless mouse,1,19
+50685,2026-05-23,North,Wireless mouse,1,19
+50693,2026-05-23,West,Headset,1,59
+50629,2026-05-24,South,Webcam HD,3,45
+50639,2026-05-24,West,Webcam HD,1,45
+50646,2026-05-24,North,Wireless mouse,2,19
+50618,2026-05-25,West,USB-C dock,1,129
+50643,2026-05-25,West,Webcam HD,3,45
+50721,2026-05-25,South,Keyboard,4,49
+50598,2026-05-26,North,"Monitor 27""",1,189
+50672,2026-05-26,North,Wireless mouse,1,19
+50719,2026-05-26,South,Keyboard,1,49
+50595,2026-05-27,West,"Monitor 27""",1,189
+50612,2026-05-27,South,USB-C dock,2,129
+50637,2026-05-27,West,Webcam HD,2,45
+50720,2026-05-27,East,Keyboard,1,49
+50610,2026-05-28,North,USB-C dock,1,129
+50626,2026-05-28,North,Webcam HD,1,45
+50655,2026-05-28,West,Wireless mouse,1,19
+50682,2026-05-28,West,Wireless mouse,1,19
+50683,2026-05-28,North,Wireless mouse,3,19
+50588,2026-05-29,South,"Monitor 27""",1,189
+50602,2026-05-29,West,"Monitor 27""",1,189
+50648,2026-05-29,South,Wireless mouse,1,19
+50650,2026-05-29,South,Wireless mouse,2,19
+50663,2026-05-29,East,Wireless mouse,3,19
+50701,2026-05-29,North,Headset,1,59
+50606,2026-05-30,West,USB-C dock,2,129
+50619,2026-05-30,West,USB-C dock,1,129
+50633,2026-05-30,East,Webcam HD,3,45
+50653,2026-05-30,North,Wireless mouse,1,19
+50670,2026-05-30,West,Wireless mouse,1,19
+50702,2026-05-30,South,Headset,2,59
+50706,2026-05-30,West,Headset,2,59
+50723,2026-05-30,South,Keyboard,1,49
+50621,2026-05-31,South,USB-C dock,1,129
+50687,2026-05-31,West,Wireless mouse,1,19
+50695,2026-05-31,South,Headset,2,59
+50729,2026-05-31,East,Keyboard,1,49
+50778,2026-06-01,South,Webcam HD,1,45
+50822,2026-06-01,West,Wireless mouse,1,19
+50829,2026-06-01,North,Wireless mouse,1,19
+50849,2026-06-01,North,Headset,1,59
+50876,2026-06-01,East,Keyboard,1,49
+50762,2026-06-02,East,USB-C dock,1,129
+50769,2026-06-02,West,Webcam HD,4,45
+50770,2026-06-02,East,Webcam HD,1,45
+50806,2026-06-02,West,Wireless mouse,2,19
+50847,2026-06-02,North,Headset,1,59
+50859,2026-06-02,North,Keyboard,2,49
+50862,2026-06-02,East,Keyboard,2,49
+50866,2026-06-02,West,Keyboard,1,49
+50749,2026-06-03,North,"Monitor 27""",1,189
+50755,2026-06-03,South,USB-C dock,2,129
+50805,2026-06-03,East,Wireless mouse,1,19
+50857,2026-06-03,South,Headset,3,59
+50753,2026-06-04,West,"Monitor 27""",1,189
+50764,2026-06-04,West,USB-C dock,3,129
+50814,2026-06-04,North,Wireless mouse,1,19
+50836,2026-06-04,West,Headset,1,59
+50843,2026-06-04,East,Headset,2,59
+50766,2026-06-05,West,USB-C dock,2,129
+50774,2026-06-05,East,Webcam HD,1,45
+50733,2026-06-06,South,"Monitor 27""",2,189
+50736,2026-06-06,South,"Monitor 27""",1,189
+50756,2026-06-06,North,USB-C dock,1,129
+50767,2026-06-06,North,USB-C dock,3,129
+50801,2026-06-06,South,Wireless mouse,1,19
+50868,2026-06-06,South,Keyboard,1,49
+50875,2026-06-06,East,Keyboard,1,49
+50738,2026-06-07,North,"Monitor 27""",1,189
+50795,2026-06-07,East,Wireless mouse,1,19
+50810,2026-06-07,East,Wireless mouse,2,19
+50828,2026-06-07,West,Wireless mouse,3,19
+50846,2026-06-07,South,Headset,1,59
+50750,2026-06-08,East,"Monitor 27""",2,189
+50771,2026-06-08,East,Webcam HD,2,45
+50861,2026-06-08,East,Keyboard,1,49
+50865,2026-06-08,West,Keyboard,1,49
+50867,2026-06-08,South,Keyboard,1,49
+50784,2026-06-09,North,Webcam HD,1,45
+50786,2026-06-10,North,Webcam HD,1,45
+50793,2026-06-10,West,Wireless mouse,2,19
+50823,2026-06-10,South,Wireless mouse,1,19
+50798,2026-06-11,South,Wireless mouse,1,19
+50802,2026-06-11,West,Wireless mouse,1,19
+50841,2026-06-11,East,Headset,4,59
+50741,2026-06-12,East,"Monitor 27""",1,189
+50807,2026-06-12,North,Wireless mouse,1,19
+50820,2026-06-12,East,Wireless mouse,1,19
+50833,2026-06-12,North,Headset,1,59
+50834,2026-06-12,West,Headset,3,59
+50877,2026-06-12,North,Keyboard,1,49
+50768,2026-06-13,West,USB-C dock,1,129
+50779,2026-06-13,West,Webcam HD,2,45
+50800,2026-06-13,North,Wireless mouse,3,19
+50825,2026-06-13,South,Wireless mouse,1,19
+50837,2026-06-13,South,Headset,3,59
+50851,2026-06-13,North,Headset,1,59
+50872,2026-06-13,South,Keyboard,1,49
+50873,2026-06-13,West,Keyboard,1,49
+50881,2026-06-13,South,Keyboard,1,49
+50743,2026-06-14,West,"Monitor 27""",1,189
+50775,2026-06-14,North,Webcam HD,1,45
+50777,2026-06-14,South,Webcam HD,1,45
+50785,2026-06-14,South,Webcam HD,4,45
+50838,2026-06-14,West,Headset,1,59
+50855,2026-06-14,North,Headset,1,59
+50880,2026-06-14,East,Keyboard,1,49
+50819,2026-06-15,West,Wireless mouse,1,19
+50864,2026-06-15,West,Keyboard,1,49
+50763,2026-06-16,East,USB-C dock,1,129
+50797,2026-06-16,East,Wireless mouse,1,19
+50853,2026-06-16,East,Headset,3,59
+50858,2026-06-16,West,Headset,2,59
+50871,2026-06-16,North,Keyboard,1,49
+50776,2026-06-17,South,Webcam HD,1,45
+50811,2026-06-17,North,Wireless mouse,2,19
+50821,2026-06-17,West,Wireless mouse,2,19
+50832,2026-06-17,West,Headset,1,59
+50845,2026-06-17,East,Headset,2,59
+50856,2026-06-17,North,Headset,1,59
+50757,2026-06-18,North,USB-C dock,1,129
+50765,2026-06-18,South,USB-C dock,3,129
+50796,2026-06-18,East,Wireless mouse,2,19
+50799,2026-06-18,West,Wireless mouse,4,19
+50815,2026-06-18,North,Wireless mouse,1,19
+50831,2026-06-18,East,Wireless mouse,1,19
+50745,2026-06-19,East,"Monitor 27""",1,189
+50789,2026-06-19,South,Webcam HD,1,45
+50791,2026-06-19,East,Wireless mouse,1,19
+50794,2026-06-19,South,Wireless mouse,2,19
+50816,2026-06-19,South,Wireless mouse,1,19
+50830,2026-06-19,West,Wireless mouse,1,19
+50860,2026-06-19,East,Keyboard,1,49
+50782,2026-06-20,East,Webcam HD,2,45
+50788,2026-06-20,East,Webcam HD,1,45
+50818,2026-06-20,North,Wireless mouse,1,19
+50870,2026-06-20,East,Keyboard,4,49
+50742,2026-06-21,West,"Monitor 27""",1,189
+50781,2026-06-21,East,Webcam HD,3,45
+50787,2026-06-21,South,Webcam HD,1,45
+50813,2026-06-21,South,Wireless mouse,1,19
+50848,2026-06-21,North,Headset,2,59
+50879,2026-06-21,North,Keyboard,4,49
+50737,2026-06-22,South,"Monitor 27""",1,189
+50744,2026-06-22,East,"Monitor 27""",1,189
+50808,2026-06-22,South,Wireless mouse,1,19
+50809,2026-06-22,East,Wireless mouse,1,19
+50835,2026-06-22,North,Headset,1,59
+50852,2026-06-22,North,Headset,1,59
+50746,2026-06-23,East,"Monitor 27""",1,189
+50760,2026-06-23,West,USB-C dock,1,129
+50850,2026-06-23,North,Headset,3,59
+50735,2026-06-24,West,"Monitor 27""",2,189
+50739,2026-06-24,West,"Monitor 27""",2,189
+50792,2026-06-24,North,Wireless mouse,2,19
+50812,2026-06-24,West,Wireless mouse,1,19
+50840,2026-06-24,North,Headset,1,59
+50804,2026-06-25,North,Wireless mouse,1,19
+50839,2026-06-25,East,Headset,2,59
+50754,2026-06-26,South,USB-C dock,1,129
+50780,2026-06-26,North,Webcam HD,1,45
+50783,2026-06-26,North,Webcam HD,2,45
+50817,2026-06-26,East,Wireless mouse,3,19
+50824,2026-06-26,South,Wireless mouse,1,19
+50734,2026-06-27,North,"Monitor 27""",3,189
+50759,2026-06-27,West,USB-C dock,1,129
+50772,2026-06-27,East,Webcam HD,2,45
+50827,2026-06-27,South,Wireless mouse,4,19
+50842,2026-06-27,East,Headset,1,59
+50844,2026-06-27,West,Headset,2,59
+50747,2026-06-28,North,"Monitor 27""",1,189
+50751,2026-06-28,West,"Monitor 27""",1,189
+50761,2026-06-28,North,USB-C dock,2,129
+50773,2026-06-28,North,Webcam HD,1,45
+50863,2026-06-28,North,Keyboard,1,49
+50874,2026-06-28,South,Keyboard,1,49
+50878,2026-06-28,West,Keyboard,1,49
+50752,2026-06-29,North,"Monitor 27""",1,189
+50790,2026-06-29,East,Wireless mouse,3,19
+50803,2026-06-29,South,Wireless mouse,1,19
+50854,2026-06-29,South,Headset,1,59
+50869,2026-06-29,West,Keyboard,1,49
+50740,2026-06-30,North,"Monitor 27""",1,189
+50748,2026-06-30,West,"Monitor 27""",4,189
+50758,2026-06-30,South,USB-C dock,1,129
+50826,2026-06-30,East,Wireless mouse,1,19
+50883,2026-07-01,East,"Monitor 27""",2,189
+50909,2026-07-01,West,USB-C dock,1,129
+50964,2026-07-01,West,Wireless mouse,2,19
+50914,2026-07-02,West,USB-C dock,1,129
+50917,2026-07-02,East,USB-C dock,2,129
+50972,2026-07-02,North,Wireless mouse,1,19
+50979,2026-07-02,West,Wireless mouse,1,19
+50991,2026-07-02,East,Headset,2,59
+51014,2026-07-02,East,Keyboard,1,49
+51024,2026-07-02,East,Keyboard,1,49
+50895,2026-07-03,East,"Monitor 27""",2,189
+50903,2026-07-03,South,USB-C dock,1,129
+50929,2026-07-03,East,Webcam HD,3,45
+50963,2026-07-03,South,Wireless mouse,2,19
+50982,2026-07-03,North,Wireless mouse,1,19
+50912,2026-07-04,East,USB-C dock,3,129
+50922,2026-07-04,East,USB-C dock,3,129
+50946,2026-07-04,West,Wireless mouse,2,19
+50949,2026-07-04,East,Wireless mouse,1,19
+50952,2026-07-04,East,Wireless mouse,1,19
+50953,2026-07-04,South,Wireless mouse,1,19
+50999,2026-07-04,South,Headset,1,59
+51001,2026-07-04,South,Headset,3,59
+51016,2026-07-04,South,Keyboard,1,49
+51022,2026-07-04,South,Keyboard,1,49
+51026,2026-07-04,North,Keyboard,3,49
+50996,2026-07-05,East,Headset,1,59
+50907,2026-07-06,North,USB-C dock,1,129
+50915,2026-07-06,West,USB-C dock,1,129
+50936,2026-07-06,South,Webcam HD,1,45
+50947,2026-07-06,South,Wireless mouse,1,19
+50985,2026-07-06,West,Headset,1,59
+50934,2026-07-07,North,Webcam HD,4,45
+50980,2026-07-07,East,Wireless mouse,1,19
+50884,2026-07-08,South,"Monitor 27""",1,189
+50919,2026-07-08,West,USB-C dock,2,129
+50937,2026-07-08,North,Webcam HD,1,45
+50941,2026-07-08,South,Webcam HD,1,45
+50945,2026-07-08,East,Wireless mouse,2,19
+50977,2026-07-08,South,Wireless mouse,1,19
+50995,2026-07-08,West,Headset,2,59
+50998,2026-07-08,West,Headset,1,59
+51004,2026-07-08,West,Headset,1,59
+50885,2026-07-09,South,"Monitor 27""",1,189
+50891,2026-07-09,West,"Monitor 27""",1,189
+50920,2026-07-09,West,USB-C dock,2,129
+51002,2026-07-09,North,Headset,1,59
+50916,2026-07-10,South,USB-C dock,1,129
+50965,2026-07-10,East,Wireless mouse,1,19
+50992,2026-07-10,West,Headset,4,59
+50925,2026-07-11,South,Webcam HD,2,45
+50968,2026-07-11,West,Wireless mouse,1,19
+50983,2026-07-11,North,Headset,1,59
+50994,2026-07-11,North,Headset,2,59
+50887,2026-07-12,South,"Monitor 27""",2,189
+50892,2026-07-12,South,"Monitor 27""",1,189
+50926,2026-07-12,North,Webcam HD,1,45
+50938,2026-07-12,West,Webcam HD,1,45
+50970,2026-07-12,South,Wireless mouse,1,19
+50971,2026-07-12,East,Wireless mouse,1,19
+50888,2026-07-13,South,"Monitor 27""",1,189
+50898,2026-07-13,North,"Monitor 27""",2,189
+50905,2026-07-13,West,USB-C dock,2,129
+50882,2026-07-14,North,"Monitor 27""",1,189
+50930,2026-07-14,West,Webcam HD,3,45
+50886,2026-07-15,South,"Monitor 27""",1,189
+50890,2026-07-15,South,"Monitor 27""",3,189
+50948,2026-07-15,West,Wireless mouse,2,19
+50954,2026-07-15,East,Wireless mouse,1,19
+50956,2026-07-15,West,Wireless mouse,1,19
+50986,2026-07-15,East,Headset,1,59
+50889,2026-07-16,South,"Monitor 27""",1,189
+50950,2026-07-16,South,Wireless mouse,1,19
+50959,2026-07-16,West,Wireless mouse,1,19
+50975,2026-07-16,South,Wireless mouse,4,19
+50987,2026-07-16,North,Headset,1,59
+50993,2026-07-16,South,Headset,1,59
+50893,2026-07-17,South,"Monitor 27""",1,189
+50933,2026-07-17,South,Webcam HD,1,45
+50988,2026-07-17,West,Headset,1,59
+51008,2026-07-17,North,Keyboard,2,49
+50955,2026-07-18,North,Wireless mouse,1,19
+50989,2026-07-18,South,Headset,4,59
+51025,2026-07-18,East,Keyboard,2,49
+50921,2026-07-19,East,USB-C dock,3,129
+50923,2026-07-19,North,Webcam HD,4,45
+50958,2026-07-19,East,Wireless mouse,1,19
+51005,2026-07-19,North,Headset,2,59
+50928,2026-07-20,South,Webcam HD,1,45
+50976,2026-07-20,North,Wireless mouse,1,19
+50911,2026-07-21,North,USB-C dock,1,129
+50939,2026-07-21,East,Webcam HD,1,45
+50943,2026-07-21,East,Webcam HD,2,45
+50962,2026-07-21,East,Wireless mouse,2,19
+50966,2026-07-21,South,Wireless mouse,1,19
+50973,2026-07-21,West,Wireless mouse,3,19
+50978,2026-07-21,West,Wireless mouse,1,19
+50900,2026-07-22,North,"Monitor 27""",1,189
+50924,2026-07-22,North,Webcam HD,1,45
+50932,2026-07-22,South,Webcam HD,1,45
+50940,2026-07-22,West,Webcam HD,2,45
+50984,2026-07-22,South,Headset,3,59
+51003,2026-07-22,East,Headset,2,59
+51007,2026-07-22,North,Headset,2,59
+51010,2026-07-22,West,Keyboard,1,49
+50897,2026-07-23,South,"Monitor 27""",1,189
+50931,2026-07-23,West,Webcam HD,1,45
+50942,2026-07-23,West,Webcam HD,1,45
+50944,2026-07-23,South,Wireless mouse,1,19
+50957,2026-07-23,East,Wireless mouse,4,19
+51015,2026-07-23,South,Keyboard,1,49
+50913,2026-07-24,South,USB-C dock,2,129
+50927,2026-07-24,West,Webcam HD,4,45
+50967,2026-07-24,East,Wireless mouse,2,19
+51020,2026-07-24,East,Keyboard,2,49
+51021,2026-07-24,North,Keyboard,2,49
+51023,2026-07-24,East,Keyboard,2,49
+50894,2026-07-25,North,"Monitor 27""",2,189
+50896,2026-07-25,West,"Monitor 27""",1,189
+50899,2026-07-25,South,"Monitor 27""",1,189
+50902,2026-07-25,East,"Monitor 27""",1,189
+51012,2026-07-25,North,Keyboard,1,49
+51013,2026-07-25,North,Keyboard,1,49
+50908,2026-07-26,East,USB-C dock,3,129
+50960,2026-07-26,East,Wireless mouse,1,19
+50904,2026-07-27,West,USB-C dock,1,129
+50935,2026-07-27,East,Webcam HD,1,45
+50969,2026-07-27,East,Wireless mouse,1,19
+50981,2026-07-27,West,Wireless mouse,1,19
+50910,2026-07-28,West,USB-C dock,1,129
+51018,2026-07-28,South,Keyboard,1,49
+50906,2026-07-29,South,USB-C dock,3,129
+50951,2026-07-29,East,Wireless mouse,1,19
+51000,2026-07-29,South,Headset,1,59
+51017,2026-07-29,North,Keyboard,2,49
+50901,2026-07-30,East,"Monitor 27""",2,189
+50961,2026-07-30,North,Wireless mouse,2,19
+51006,2026-07-30,North,Headset,3,59
+51019,2026-07-30,East,Keyboard,1,49
+50918,2026-07-31,South,USB-C dock,1,129
+50974,2026-07-31,South,Wireless mouse,1,19
+50990,2026-07-31,North,Headset,2,59
+50997,2026-07-31,West,Headset,1,59
+51009,2026-07-31,North,Keyboard,1,49
+51011,2026-07-31,South,Keyboard,1,49
+51030,2026-08-01,West,"Monitor 27""",1,189
+51036,2026-08-01,North,"Monitor 27""",1,189
+51067,2026-08-01,West,USB-C dock,1,129
+51079,2026-08-01,South,Webcam HD,1,45
+51085,2026-08-01,South,Webcam HD,1,45
+51086,2026-08-01,East,Wireless mouse,3,19
+51096,2026-08-01,South,Wireless mouse,1,19
+51105,2026-08-01,West,Wireless mouse,1,19
+51124,2026-08-01,East,Wireless mouse,2,19
+51131,2026-08-01,West,Headset,3,59
+51175,2026-08-01,West,Keyboard,2,49
+51039,2026-08-02,North,"Monitor 27""",1,189
+51055,2026-08-02,North,USB-C dock,3,129
+51134,2026-08-02,South,Headset,3,59
+51148,2026-08-02,East,Headset,1,59
+51172,2026-08-02,West,Keyboard,2,49
+51091,2026-08-03,East,Wireless mouse,2,19
+51108,2026-08-03,North,Wireless mouse,2,19
+51154,2026-08-03,East,Headset,4,59
+51171,2026-08-03,North,Keyboard,3,49
+51109,2026-08-04,North,Wireless mouse,1,19
+51149,2026-08-04,North,Headset,4,59
+51037,2026-08-05,West,"Monitor 27""",1,189
+51045,2026-08-05,North,"Monitor 27""",1,189
+51139,2026-08-05,North,Headset,1,59
+51150,2026-08-05,West,Headset,1,59
+51165,2026-08-05,West,Keyboard,2,49
+51072,2026-08-07,North,Webcam HD,1,45
+51087,2026-08-07,East,Wireless mouse,1,19
+51110,2026-08-07,South,Wireless mouse,1,19
+51145,2026-08-07,North,Headset,1,59
+51158,2026-08-07,North,Keyboard,1,49
+51125,2026-08-08,South,Wireless mouse,1,19
+51132,2026-08-08,South,Headset,1,59
+51151,2026-08-08,South,Headset,2,59
+51027,2026-08-09,East,"Monitor 27""",1,189
+51052,2026-08-09,North,USB-C dock,1,129
+51053,2026-08-09,East,USB-C dock,1,129
+51077,2026-08-09,North,Webcam HD,2,45
+51156,2026-08-09,South,Keyboard,1,49
+51157,2026-08-09,North,Keyboard,4,49
+51058,2026-08-10,South,USB-C dock,3,129
+51060,2026-08-10,East,USB-C dock,2,129
+51073,2026-08-10,East,Webcam HD,4,45
+51081,2026-08-10,North,Webcam HD,1,45
+51103,2026-08-10,West,Wireless mouse,1,19
+51127,2026-08-10,West,Wireless mouse,1,19
+51130,2026-08-10,East,Headset,1,59
+51138,2026-08-10,North,Headset,2,59
+51140,2026-08-10,South,Headset,1,59
+51047,2026-08-11,West,"Monitor 27""",1,189
+51076,2026-08-11,South,Webcam HD,1,45
+51094,2026-08-11,East,Wireless mouse,1,19
+51126,2026-08-11,West,Wireless mouse,2,19
+51143,2026-08-11,West,Headset,3,59
+51160,2026-08-11,North,Keyboard,2,49
+51164,2026-08-11,West,Keyboard,1,49
+51173,2026-08-11,West,Keyboard,1,49
+51174,2026-08-11,West,Keyboard,4,49
+51048,2026-08-12,East,"Monitor 27""",1,189
+51066,2026-08-12,South,USB-C dock,1,129
+51074,2026-08-12,West,Webcam HD,2,45
+51098,2026-08-12,West,Wireless mouse,1,19
+51104,2026-08-12,East,Wireless mouse,1,19
+51114,2026-08-12,South,Wireless mouse,1,19
+51121,2026-08-12,North,Wireless mouse,1,19
+51141,2026-08-12,North,Headset,2,59
+51089,2026-08-13,East,Wireless mouse,1,19
+51117,2026-08-13,West,Wireless mouse,1,19
+51122,2026-08-13,West,Wireless mouse,3,19
+51123,2026-08-13,South,Wireless mouse,1,19
+51028,2026-08-15,North,"Monitor 27""",2,189
+51042,2026-08-15,West,"Monitor 27""",1,189
+51050,2026-08-15,North,USB-C dock,2,129
+51080,2026-08-15,South,Webcam HD,3,45
+51093,2026-08-15,North,Wireless mouse,1,19
+51142,2026-08-15,West,Headset,1,59
+51102,2026-08-16,North,Wireless mouse,2,19
+51044,2026-08-17,South,"Monitor 27""",1,189
+51054,2026-08-17,South,USB-C dock,4,129
+51061,2026-08-17,South,USB-C dock,1,129
+51097,2026-08-17,North,Wireless mouse,1,19
+51146,2026-08-17,South,Headset,1,59
+51168,2026-08-17,East,Keyboard,2,49
+51032,2026-08-18,East,"Monitor 27""",3,189
+51062,2026-08-18,West,USB-C dock,1,129
+51152,2026-08-18,North,Headset,1,59
+51159,2026-08-18,East,Keyboard,1,49
+51161,2026-08-18,East,Keyboard,1,49
+51029,2026-08-19,West,"Monitor 27""",1,189
+51034,2026-08-19,East,"Monitor 27""",1,189
+51049,2026-08-19,West,"Monitor 27""",1,189
+51069,2026-08-19,North,Webcam HD,1,45
+51071,2026-08-19,East,Webcam HD,1,45
+51128,2026-08-19,South,Wireless mouse,1,19
+51083,2026-08-20,North,Webcam HD,1,45
+51092,2026-08-20,West,Wireless mouse,1,19
+51095,2026-08-20,East,Wireless mouse,1,19
+51100,2026-08-20,East,Wireless mouse,1,19
+51101,2026-08-20,East,Wireless mouse,2,19
+51111,2026-08-20,East,Wireless mouse,2,19
+51133,2026-08-20,West,Headset,1,59
+51057,2026-08-21,North,USB-C dock,1,129
+51078,2026-08-21,East,Webcam HD,1,45
+51107,2026-08-21,South,Wireless mouse,1,19
+51120,2026-08-21,West,Wireless mouse,2,19
+51033,2026-08-22,West,"Monitor 27""",2,189
+51099,2026-08-22,South,Wireless mouse,2,19
+51035,2026-08-23,East,"Monitor 27""",3,189
+51063,2026-08-23,East,USB-C dock,2,129
+51147,2026-08-23,North,Headset,2,59
+51162,2026-08-23,West,Keyboard,4,49
+51051,2026-08-24,South,USB-C dock,1,129
+51070,2026-08-24,East,Webcam HD,1,45
+51082,2026-08-24,North,Webcam HD,4,45
+51088,2026-08-24,North,Wireless mouse,2,19
+51119,2026-08-24,North,Wireless mouse,1,19
+51135,2026-08-24,East,Headset,1,59
+51169,2026-08-24,West,Keyboard,4,49
+51056,2026-08-25,West,USB-C dock,2,129
+51068,2026-08-25,East,Webcam HD,3,45
+51136,2026-08-25,West,Headset,1,59
+51031,2026-08-26,East,"Monitor 27""",1,189
+51084,2026-08-26,East,Webcam HD,2,45
+51106,2026-08-26,East,Wireless mouse,1,19
+51118,2026-08-26,North,Wireless mouse,1,19
+51040,2026-08-27,West,"Monitor 27""",2,189
+51046,2026-08-27,East,"Monitor 27""",2,189
+51153,2026-08-27,West,Headset,4,59
+51170,2026-08-27,South,Keyboard,2,49
+51038,2026-08-28,North,"Monitor 27""",2,189
+51090,2026-08-28,West,Wireless mouse,2,19
+51113,2026-08-28,South,Wireless mouse,1,19
+51115,2026-08-28,West,Wireless mouse,1,19
+51137,2026-08-28,South,Headset,4,59
+51163,2026-08-28,East,Keyboard,1,49
+51176,2026-08-28,West,Keyboard,1,49
+51064,2026-08-29,West,USB-C dock,1,129
+51065,2026-08-29,South,USB-C dock,2,129
+51112,2026-08-29,South,Wireless mouse,3,19
+51144,2026-08-29,North,Headset,1,59
+51155,2026-08-29,South,Keyboard,2,49
+51166,2026-08-29,West,Keyboard,2,49
+51167,2026-08-29,North,Keyboard,1,49
+51075,2026-08-30,North,Webcam HD,2,45
+51116,2026-08-30,East,Wireless mouse,3,19
+51129,2026-08-30,East,Wireless mouse,4,19
+51041,2026-08-31,South,"Monitor 27""",2,189
+51043,2026-08-31,North,"Monitor 27""",1,189
+51059,2026-08-31,South,USB-C dock,2,129
+51202,2026-09-01,East,USB-C dock,1,129
+51248,2026-09-01,North,Wireless mouse,1,19
+51225,2026-09-02,East,Webcam HD,1,45
+51230,2026-09-02,South,Webcam HD,2,45
+51266,2026-09-02,South,Wireless mouse,1,19
+51273,2026-09-02,East,Wireless mouse,1,19
+51306,2026-09-02,East,Headset,1,59
+51310,2026-09-02,West,Keyboard,2,49
+51320,2026-09-02,South,Keyboard,2,49
+51325,2026-09-02,North,Keyboard,2,49
+51179,2026-09-03,West,"Monitor 27""",4,189
+51195,2026-09-03,East,"Monitor 27""",1,189
+51216,2026-09-03,West,USB-C dock,1,129
+51228,2026-09-03,North,Webcam HD,1,45
+51229,2026-09-03,South,Webcam HD,1,45
+51237,2026-09-03,East,Webcam HD,1,45
+51263,2026-09-03,North,Wireless mouse,1,19
+51319,2026-09-03,East,Keyboard,4,49
+51227,2026-09-04,North,Webcam HD,1,45
+51287,2026-09-04,North,Headset,1,59
+51294,2026-09-04,South,Headset,1,59
+51315,2026-09-04,East,Keyboard,1,49
+51316,2026-09-04,North,Keyboard,2,49
+51185,2026-09-05,North,"Monitor 27""",3,189
+51192,2026-09-05,East,"Monitor 27""",1,189
+51198,2026-09-05,North,"Monitor 27""",2,189
+51233,2026-09-05,West,Webcam HD,2,45
+51242,2026-09-05,North,Wireless mouse,1,19
+51245,2026-09-05,East,Wireless mouse,3,19
+51276,2026-09-05,South,Wireless mouse,1,19
+51288,2026-09-05,East,Headset,1,59
+51313,2026-09-05,East,Keyboard,4,49
+51326,2026-09-05,South,Keyboard,1,49
+51203,2026-09-06,East,USB-C dock,2,129
+51291,2026-09-06,North,Headset,2,59
+51207,2026-09-07,South,USB-C dock,1,129
+51214,2026-09-07,East,USB-C dock,1,129
+51215,2026-09-07,East,USB-C dock,3,129
+51235,2026-09-07,North,Webcam HD,1,45
+51254,2026-09-07,North,Wireless mouse,1,19
+51271,2026-09-07,South,Wireless mouse,3,19
+51307,2026-09-07,East,Headset,1,59
+51308,2026-09-07,South,Headset,3,59
+51317,2026-09-07,South,Keyboard,1,49
+51188,2026-09-08,South,"Monitor 27""",1,189
+51240,2026-09-08,West,Wireless mouse,2,19
+51250,2026-09-08,West,Wireless mouse,1,19
+51268,2026-09-08,East,Wireless mouse,2,19
+51290,2026-09-08,East,Headset,2,59
+51303,2026-09-08,North,Headset,1,59
+51305,2026-09-08,South,Headset,1,59
+51312,2026-09-08,North,Keyboard,2,49
+51180,2026-09-09,East,"Monitor 27""",1,189
+51201,2026-09-09,North,USB-C dock,1,129
+51204,2026-09-09,East,USB-C dock,1,129
+51205,2026-09-09,West,USB-C dock,1,129
+51270,2026-09-09,East,Wireless mouse,1,19
+51302,2026-09-09,North,Headset,1,59
+51304,2026-09-09,North,Headset,1,59
+51238,2026-09-10,West,Wireless mouse,1,19
+51283,2026-09-10,North,Headset,1,59
+51286,2026-09-10,North,Headset,1,59
+51292,2026-09-10,North,Headset,2,59
+51246,2026-09-11,South,Wireless mouse,1,19
+51289,2026-09-11,East,Headset,1,59
+51322,2026-09-11,North,Keyboard,2,49
+51184,2026-09-12,West,"Monitor 27""",1,189
+51191,2026-09-12,West,"Monitor 27""",1,189
+51193,2026-09-12,East,"Monitor 27""",2,189
+51209,2026-09-12,North,USB-C dock,2,129
+51281,2026-09-12,North,Wireless mouse,2,19
+51177,2026-09-13,South,"Monitor 27""",2,189
+51210,2026-09-13,East,USB-C dock,1,129
+51213,2026-09-13,South,USB-C dock,3,129
+51212,2026-09-14,East,USB-C dock,1,129
+51239,2026-09-14,North,Wireless mouse,1,19
+51314,2026-09-14,West,Keyboard,2,49
+51196,2026-09-15,North,"Monitor 27""",1,189
+51262,2026-09-15,North,Wireless mouse,1,19
+51265,2026-09-15,West,Wireless mouse,1,19
+51293,2026-09-15,North,Headset,2,59
+51295,2026-09-15,North,Headset,1,59
+51323,2026-09-15,South,Keyboard,1,49
+51197,2026-09-16,South,"Monitor 27""",2,189
+51222,2026-09-16,South,Webcam HD,1,45
+51231,2026-09-16,North,Webcam HD,1,45
+51257,2026-09-16,South,Wireless mouse,1,19
+51282,2026-09-16,North,Wireless mouse,1,19
+51284,2026-09-16,East,Headset,2,59
+51186,2026-09-17,East,"Monitor 27""",1,189
+51187,2026-09-17,South,"Monitor 27""",2,189
+51194,2026-09-17,East,"Monitor 27""",1,189
+51199,2026-09-17,South,USB-C dock,2,129
+51200,2026-09-17,East,USB-C dock,2,129
+51217,2026-09-17,West,USB-C dock,1,129
+51280,2026-09-17,North,Wireless mouse,1,19
+51296,2026-09-17,North,Headset,1,59
+51236,2026-09-18,East,Webcam HD,1,45
+51260,2026-09-18,South,Wireless mouse,1,19
+51275,2026-09-18,North,Wireless mouse,1,19
+51219,2026-09-19,West,USB-C dock,3,129
+51249,2026-09-19,East,Wireless mouse,1,19
+51252,2026-09-19,West,Wireless mouse,1,19
+51206,2026-09-21,West,USB-C dock,3,129
+51243,2026-09-21,East,Wireless mouse,3,19
+51274,2026-09-21,East,Wireless mouse,1,19
+51189,2026-09-22,West,"Monitor 27""",1,189
+51244,2026-09-22,West,Wireless mouse,2,19
+51259,2026-09-22,East,Wireless mouse,2,19
+51264,2026-09-22,East,Wireless mouse,2,19
+51272,2026-09-22,South,Wireless mouse,1,19
+51277,2026-09-22,West,Wireless mouse,1,19
+51300,2026-09-22,North,Headset,1,59
+51220,2026-09-23,West,USB-C dock,1,129
+51247,2026-09-23,North,Wireless mouse,2,19
+51251,2026-09-23,South,Wireless mouse,2,19
+51297,2026-09-23,South,Headset,1,59
+51311,2026-09-23,South,Keyboard,2,49
+51321,2026-09-23,South,Keyboard,2,49
+51224,2026-09-24,South,Webcam HD,1,45
+51232,2026-09-24,West,Webcam HD,2,45
+51253,2026-09-24,West,Wireless mouse,1,19
+51258,2026-09-24,South,Wireless mouse,1,19
+51269,2026-09-24,South,Wireless mouse,1,19
+51299,2026-09-24,South,Headset,1,59
+51309,2026-09-24,South,Headset,3,59
+51182,2026-09-25,East,"Monitor 27""",1,189
+51211,2026-09-25,East,USB-C dock,4,129
+51226,2026-09-25,West,Webcam HD,2,45
+51285,2026-09-25,South,Headset,1,59
+51318,2026-09-25,North,Keyboard,2,49
+51178,2026-09-26,West,"Monitor 27""",1,189
+51181,2026-09-26,South,"Monitor 27""",3,189
+51208,2026-09-26,East,USB-C dock,2,129
+51183,2026-09-27,West,"Monitor 27""",3,189
+51190,2026-09-27,North,"Monitor 27""",1,189
+51223,2026-09-27,North,Webcam HD,2,45
+51267,2026-09-27,West,Wireless mouse,1,19
+51278,2026-09-27,East,Wireless mouse,1,19
+51298,2026-09-27,East,Headset,1,59
+51301,2026-09-27,West,Headset,1,59
+51234,2026-09-28,South,Webcam HD,1,45
+51241,2026-09-28,East,Wireless mouse,1,19
+51255,2026-09-28,North,Wireless mouse,1,19
+51256,2026-09-28,North,Wireless mouse,2,19
+51218,2026-09-29,North,USB-C dock,1,129
+51221,2026-09-29,North,Webcam HD,1,45
+51261,2026-09-30,South,Wireless mouse,1,19
+51279,2026-09-30,South,Wireless mouse,4,19
+51324,2026-09-30,West,Keyboard,2,49
+51352,2026-10-01,East,USB-C dock,1,129
+51353,2026-10-01,North,USB-C dock,3,129
+51369,2026-10-01,North,USB-C dock,3,129
+51380,2026-10-01,North,Webcam HD,3,45
+51472,2026-10-02,South,Keyboard,2,49
+51329,2026-10-03,North,"Monitor 27""",2,189
+51428,2026-10-03,North,Wireless mouse,3,19
+51463,2026-10-03,North,Keyboard,1,49
+51477,2026-10-03,East,Keyboard,2,49
+51370,2026-10-04,South,USB-C dock,1,129
+51418,2026-10-04,West,Wireless mouse,2,19
+51327,2026-10-05,South,"Monitor 27""",1,189
+51435,2026-10-05,West,Headset,2,59
+51388,2026-10-06,East,Webcam HD,2,45
+51400,2026-10-06,East,Wireless mouse,1,19
+51420,2026-10-06,South,Wireless mouse,4,19
+51424,2026-10-06,South,Wireless mouse,1,19
+51451,2026-10-06,North,Headset,2,59
+51462,2026-10-06,East,Keyboard,2,49
+51396,2026-10-07,North,Wireless mouse,1,19
+51464,2026-10-07,South,Keyboard,2,49
+51465,2026-10-07,East,Keyboard,2,49
+51468,2026-10-07,West,Keyboard,1,49
+51480,2026-10-07,East,Keyboard,1,49
+51328,2026-10-08,East,"Monitor 27""",2,189
+51365,2026-10-08,East,USB-C dock,3,129
+51417,2026-10-08,North,Wireless mouse,3,19
+51446,2026-10-08,East,Headset,2,59
+51448,2026-10-08,South,Headset,1,59
+51359,2026-10-09,South,USB-C dock,2,129
+51393,2026-10-09,East,Wireless mouse,1,19
+51411,2026-10-09,West,Wireless mouse,1,19
+51436,2026-10-09,North,Headset,2,59
+51452,2026-10-09,West,Headset,1,59
+51458,2026-10-09,North,Headset,2,59
+51355,2026-10-10,West,USB-C dock,1,129
+51358,2026-10-10,East,USB-C dock,1,129
+51413,2026-10-10,North,Wireless mouse,1,19
+51364,2026-10-11,South,USB-C dock,1,129
+51367,2026-10-11,South,USB-C dock,3,129
+51385,2026-10-11,West,Webcam HD,1,45
+51402,2026-10-11,West,Wireless mouse,1,19
+51404,2026-10-11,West,Wireless mouse,2,19
+51408,2026-10-11,North,Wireless mouse,1,19
+51427,2026-10-11,North,Wireless mouse,3,19
+51447,2026-10-11,East,Headset,1,59
+51471,2026-10-11,East,Keyboard,1,49
+51439,2026-10-12,North,Headset,1,59
+51349,2026-10-13,North,USB-C dock,1,129
+51357,2026-10-13,West,USB-C dock,2,129
+51399,2026-10-13,East,Wireless mouse,4,19
+51422,2026-10-13,East,Wireless mouse,1,19
+51390,2026-10-14,North,Wireless mouse,2,19
+51407,2026-10-14,South,Wireless mouse,2,19
+51473,2026-10-14,North,Keyboard,2,49
+51360,2026-10-15,West,USB-C dock,2,129
+51382,2026-10-15,East,Webcam HD,2,45
+51442,2026-10-15,South,Headset,1,59
+51474,2026-10-15,North,Keyboard,1,49
+51330,2026-10-16,North,"Monitor 27""",1,189
+51354,2026-10-16,West,USB-C dock,1,129
+51379,2026-10-16,West,Webcam HD,1,45
+51405,2026-10-16,East,Wireless mouse,1,19
+51423,2026-10-16,East,Wireless mouse,1,19
+51478,2026-10-16,South,Keyboard,2,49
+51425,2026-10-17,West,Wireless mouse,2,19
+51443,2026-10-17,North,Headset,4,59
+51455,2026-10-17,West,Headset,1,59
+51479,2026-10-17,East,Keyboard,1,49
+51356,2026-10-18,South,USB-C dock,1,129
+51342,2026-10-19,North,"Monitor 27""",1,189
+51345,2026-10-19,West,"Monitor 27""",1,189
+51387,2026-10-19,North,Webcam HD,4,45
+51394,2026-10-19,West,Wireless mouse,2,19
+51430,2026-10-19,East,Headset,2,59
+51444,2026-10-19,North,Headset,1,59
+51454,2026-10-19,North,Headset,1,59
+51459,2026-10-19,South,Headset,1,59
+51366,2026-10-20,West,USB-C dock,1,129
+51375,2026-10-20,East,Webcam HD,1,45
+51437,2026-10-20,East,Headset,2,59
+51461,2026-10-20,South,Keyboard,1,49
+51333,2026-10-21,North,"Monitor 27""",2,189
+51421,2026-10-21,North,Wireless mouse,2,19
+51470,2026-10-21,South,Keyboard,1,49
+51350,2026-10-22,East,USB-C dock,2,129
+51362,2026-10-22,North,USB-C dock,1,129
+51372,2026-10-22,North,USB-C dock,4,129
+51377,2026-10-22,West,Webcam HD,3,45
+51391,2026-10-22,West,Wireless mouse,1,19
+51403,2026-10-22,East,Wireless mouse,1,19
+51429,2026-10-22,South,Wireless mouse,1,19
+51431,2026-10-22,South,Headset,1,59
+51432,2026-10-22,South,Headset,1,59
+51335,2026-10-23,East,"Monitor 27""",1,189
+51392,2026-10-23,East,Wireless mouse,2,19
+51419,2026-10-23,North,Wireless mouse,3,19
+51440,2026-10-23,North,Headset,1,59
+51337,2026-10-24,West,"Monitor 27""",1,189
+51339,2026-10-24,West,"Monitor 27""",2,189
+51373,2026-10-24,West,USB-C dock,1,129
+51384,2026-10-24,West,Webcam HD,1,45
+51397,2026-10-24,South,Wireless mouse,2,19
+51434,2026-10-24,West,Headset,3,59
+51467,2026-10-24,North,Keyboard,1,49
+51331,2026-10-25,East,"Monitor 27""",3,189
+51332,2026-10-25,North,"Monitor 27""",1,189
+51374,2026-10-25,East,USB-C dock,2,129
+51389,2026-10-25,North,Wireless mouse,1,19
+51409,2026-10-25,West,Wireless mouse,2,19
+51414,2026-10-25,North,Wireless mouse,1,19
+51334,2026-10-26,West,"Monitor 27""",1,189
+51336,2026-10-26,West,"Monitor 27""",2,189
+51340,2026-10-26,South,"Monitor 27""",1,189
+51343,2026-10-26,East,"Monitor 27""",2,189
+51348,2026-10-26,East,USB-C dock,2,129
+51361,2026-10-26,South,USB-C dock,1,129
+51371,2026-10-26,East,USB-C dock,2,129
+51378,2026-10-26,North,Webcam HD,3,45
+51395,2026-10-26,East,Wireless mouse,3,19
+51450,2026-10-26,North,Headset,1,59
+51338,2026-10-27,East,"Monitor 27""",3,189
+51341,2026-10-27,East,"Monitor 27""",2,189
+51415,2026-10-27,East,Wireless mouse,1,19
+51445,2026-10-27,West,Headset,1,59
+51449,2026-10-27,South,Headset,1,59
+51344,2026-10-28,South,"Monitor 27""",1,189
+51410,2026-10-28,West,Wireless mouse,2,19
+51456,2026-10-28,North,Headset,2,59
+51469,2026-10-28,East,Keyboard,1,49
+51475,2026-10-28,South,Keyboard,1,49
+51346,2026-10-29,West,"Monitor 27""",1,189
+51351,2026-10-29,West,USB-C dock,2,129
+51363,2026-10-29,South,USB-C dock,1,129
+51381,2026-10-29,North,Webcam HD,1,45
+51383,2026-10-29,South,Webcam HD,2,45
+51426,2026-10-29,East,Wireless mouse,1,19
+51433,2026-10-29,East,Headset,3,59
+51438,2026-10-29,South,Headset,1,59
+51460,2026-10-29,West,Keyboard,1,49
+51476,2026-10-29,West,Keyboard,1,49
+51347,2026-10-30,North,"Monitor 27""",1,189
+51398,2026-10-30,North,Wireless mouse,1,19
+51406,2026-10-30,West,Wireless mouse,1,19
+51412,2026-10-30,West,Wireless mouse,1,19
+51368,2026-10-31,South,USB-C dock,1,129
+51376,2026-10-31,East,Webcam HD,1,45
+51386,2026-10-31,East,Webcam HD,1,45
+51401,2026-10-31,West,Wireless mouse,1,19
+51416,2026-10-31,East,Wireless mouse,1,19
+51441,2026-10-31,East,Headset,1,59
+51453,2026-10-31,East,Headset,2,59
+51457,2026-10-31,East,Headset,2,59
+51466,2026-10-31,North,Keyboard,3,49
