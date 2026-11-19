@@ -53,6 +53,7 @@ On Windows PowerShell use `$env:WBXSANDBOX_API_KEY = "..."` (or `setx` to keep i
 
 | Example | What it shows |
 |---|---|
+| [ai-data-analyst](use-cases/ai-data-analyst/) | A small AI agent: ask a question about your data, a model writes Python, the sandbox runs it and returns charts. The data never enters the prompt. |
 | [big-dataset](use-cases/big-dataset/) | Analyse 3.8 million taxi trips (65 MB Parquet) in the sandbox; only a few kilobytes of results come back. |
 | [csv-dashboard](use-cases/csv-dashboard/) | Upload a CSV, compute trends, serve a dashboard and get an HTTPS link to share. |
 | [share-web-app](use-cases/share-web-app/) | Run a small live web app (a team poll) in a sandbox and share it over HTTPS. |
