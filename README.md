@@ -77,6 +77,9 @@ Every use case has a README with the equivalent prompt for Claude or ChatGPT, so
 | [08_pause_resume.py](sdk/08_pause_resume.py) | Pause, resume and extend a sandbox |
 | [09_budget_and_compute.py](sdk/09_budget_and_compute.py) | Read budget, billing currency and compute classes (read-only) |
 | [10_webhook_verify.py](sdk/10_webhook_verify.py) | Verify a signed job webhook (offline) |
+| [11_metrics.py](sdk/11_metrics.py) | CPU and memory of a sandbox: an hour of history and a live stream |
+| [12_signed_receipt.py](sdk/12_signed_receipt.py) | Signed execution receipt of a job and checking its signature |
+| [13_desktop.py](sdk/13_desktop.py) | Desktop & Computer Use (beta): open a browser window, click, take a screenshot |
 
 Run any of them with `python sdk/01_hello.py`.
 
