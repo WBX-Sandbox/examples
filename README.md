@@ -1,6 +1,6 @@
 # WBX Sandbox – examples
 
-**Give your AI agent its own computer.** [WBX Sandbox](https://sandbox.wbx.cz) runs code in isolated Linux microVMs (Firecracker) that start in milliseconds, keep their own files and network rules, and disappear when the work is done. Connect it to Claude, ChatGPT or any MCP client, or drive it from Python.
+**Give your AI agent its own computer.** [WBX Sandbox](https://sandbox.wbx.cz) runs code in isolated Linux microVMs (Firecracker) that start from a memory snapshot, have their own kernel, disk and network rules, and disappear when the work is done – or fall asleep with their files for later. Connect it to Claude, ChatGPT or any MCP client, or drive it from Python, TypeScript or the REST API.
 
 This repository has two kinds of examples:
 
@@ -31,7 +31,7 @@ More tested prompts: [mcp/prompts.md](mcp/prompts.md).
 ## Use the Python SDK
 
 ```bash
-pip install https://sandbox.wbx.cz/download/wbxsandbox-sdk.tar.gz   # Python 3.9+, no dependencies
+pip install wbxsandbox               # Python 3.9+, no dependencies
 export WBXSANDBOX_URL=https://sandbox.wbx.cz
 export WBXSANDBOX_API_KEY=...        # portal → API keys
 ```
@@ -79,6 +79,24 @@ Every use case has a README with the equivalent prompt for Claude or ChatGPT, so
 | [10_webhook_verify.py](sdk/10_webhook_verify.py) | Verify a signed job webhook (offline) |
 
 Run any of them with `python sdk/01_hello.py`.
+
+## More of the platform
+
+The examples cover the most common tasks. The platform does more – each item links to its documentation:
+
+| Feature | |
+|---|---|
+| [Sleep and wake](https://sandbox.wbx.cz/docs/sandboxes/sleep) | Named sandboxes fall asleep with their files instead of being destroyed; the next request wakes them. |
+| [Network and IPv6](https://sandbox.wbx.cz/docs/sandboxes/network) | Allowlists, no network, or a public IPv6 address of the sandbox's own. |
+| [Execution receipts](https://sandbox.wbx.cz/docs/jobs/receipts) | Every job records what ran, on which template build, with input and output checksums – signed by WBX with Ed25519. |
+| [Passing files between jobs](https://sandbox.wbx.cz/docs/jobs/inputs) | Result files of one job become the inputs of the next, without downloading them. |
+| [Metrics](https://sandbox.wbx.cz/docs/sandboxes/metrics) | CPU, memory, network and disk of a running sandbox – an hour of history and a live stream. |
+| [Desktop & Computer Use](https://sandbox.wbx.cz/docs/sandboxes/desktop) (beta) | A Linux desktop your agent controls with screenshots, mouse and keyboard; enabled per team on request. |
+| [Terminal](https://sandbox.wbx.cz/docs/sandboxes/terminal) | `wbx connect SB_ID` opens a shell in a running sandbox. |
+| [TypeScript SDK](https://github.com/WBX-Sandbox/wbxsandbox-js) | `npm install wbxsandbox` – the same features for Node.js, Deno and Bun. |
+| Agent frameworks | [OpenAI Agents SDK](https://github.com/WBX-Sandbox/openai-agents-wbxsandbox) and [LangChain Deep Agents](https://github.com/WBX-Sandbox/langchain-wbxsandbox) backends. |
+
+The portal's [Examples](https://sandbox.wbx.cz/docs/examples) page has more copy-paste recipes.
 
 ## Costs and safety
 
